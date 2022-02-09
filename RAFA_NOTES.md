@@ -1,0 +1,3 @@
+- Que pasa con las colas (concurrencia, perder mensages, consistencia eventual/trasaccional)
+- Es un ejemplo un poco extraño. Necesitaría saber más sobre que función cumple el microservicio.Para mi, discount podría ser un campo de User perfectamente (si estamos en un contexto de accounting por ejemplo) sin necesidad de que Discount sea una entidad. Tampoco especifica si un usuario puede tener más de un descuento.
+- La salida de log para development no es muy human friendly
